@@ -22,8 +22,8 @@ const songs = [
         src: "music/music-1.mp3"
     },
     {
-        title: "Dil Bechara",
-        artist: "A.R Rahman",
+        title: "𝒄𝒂𝒏 𝒘𝒆 𝒔𝒕𝒂𝒚 𝒇𝒐𝒓𝒆𝒗𝒆𝒓",
+        artist: "𝒂 𝒔𝒖𝒔𝒉 & 𝒚𝒐𝒉𝒂𝒏 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆",
         img: "music/music-2.jpg",
         src: "music/music-2.mp3"
     },
