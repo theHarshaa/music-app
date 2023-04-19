@@ -70,8 +70,8 @@ const songs = [
         src: "music/music-9.mp3"
     },
     {
-        title: "Aaj Na",
-        artist: "RITVIZ",
+        title: "Pink Blue",
+        artist: "Bharg and Tsumyoki",
         img: "music/music-10.jpg",
         src: "music/music-10.mp3"
     },
