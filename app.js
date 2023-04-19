@@ -58,8 +58,8 @@ const songs = [
         src: "music/music-7.mp3"
     },
     {
-        title: "As it Was",
-        artist: "Harry Style",
+        title: "Bye",
+        artist: "Aditya Bhardwaj",
         img: "music/music-8.jpg",
         src: "music/music-8.mp3"
     },
